@@ -8,7 +8,7 @@ tbc
 Complete
 
 ## Tech
-React | CSS | Socket.io
+React | CSS | Charts.js
 
 ## Bugs
 None
