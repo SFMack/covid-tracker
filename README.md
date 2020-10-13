@@ -1,4 +1,4 @@
-# Covid Tracker
+# Covid Tracker (React)
 In the beginning of the Covid 19 pandemic it was hard to comprehend the threat in terms of global cases.  I built this project to learn more about data visualization as well create an easy to consume resource for covid 19 test results
 
 ## Functionality
